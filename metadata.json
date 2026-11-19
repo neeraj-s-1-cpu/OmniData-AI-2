@@ -1,0 +1,6 @@
+{
+  "name": "Omni Data AI",
+  "description": "Automated AI data analyst for files, camera scans, and voice input with automatic cleaning, SQL storage, interactive Plotly charts, and key insights.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
